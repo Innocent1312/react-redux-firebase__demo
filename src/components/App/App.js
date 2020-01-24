@@ -6,6 +6,7 @@ import Dashboard from '../Dashboard/Dashboard';
 import ProjectDetails from '../Projects/ProjectDetails';
 import SignIn from '../Auth/SignIn';
 import SignUp from '../Auth/SignUp';
+import CreateProject from '../Projects/CreateProject';
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <Route path="/project/:id" component={ ProjectDetails } />
         <Route path="/sign-in" component={ SignIn } />
         <Route path="/sign-up" component={ SignUp } />
+        <Route path="/create" component={ CreateProject } />
       </Switch>
     </>
   )

@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="17b14c40-a5aa-46d5-a236-9616a1d8c84b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Auth/SignIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/SignIn.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Auth/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/SignUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/SignedInLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/SignedInLinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/SignedOutLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/SignedOutLinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/CreateProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/CreateProject.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579802567125</updated>
       <workItem from="1579802569920" duration="5084000" />
-      <workItem from="1579808269747" duration="3405000" />
+      <workItem from="1579808269747" duration="4306000" />
     </task>
     <servers />
   </component>
