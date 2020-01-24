@@ -31,7 +31,7 @@ const SignIn = () => {
           <input type="password" id="password" onChange={handlePasswordChange} />
         </div>
         <div className="input-field">
-          <button type="submit" className="btn indigo darken-1 z-depth-0">Login</button>
+          <button type="submit" className="btn indigo darken-1 z-depth-0">Sign In</button>
         </div>
       </form>
     </div>
