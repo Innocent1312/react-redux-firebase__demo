@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
+import { connect } from 'react-redux';
 
-const CreateProject = () => {
+import { createProject } from '../../store/actions/projectActions';
+
+const CreateProject = ({ createProject }) => {
   const [title, setTitle] = useState('');
   const [content, setContent] = useState('');
 
@@ -15,7 +18,7 @@ const CreateProject = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log({ title, content })
+    createProject({ title, content })
   };
 
   return (
@@ -28,15 +31,14 @@ const CreateProject = () => {
         </div>
         <div className="input-field">
           <label htmlFor="content">Project Content</label>
-          <textarea id="content" className="materialize-textarea" onChange={handleContentChange}>{''}</textarea>
+          <textarea id="content" className="materialize-textarea" onChange={handleContentChange}>{' '}</textarea>
         </div>
         <div className="input-field">
           <button type="submit" className="btn indigo darken-1 z-depth-0">Create</button>
         </div>
       </form>
     </div>
-
   );
 };
 
-export default CreateProject;
+export default connect(null, { createProject })(CreateProject);
