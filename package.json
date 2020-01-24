@@ -1,6 +1,6 @@
 {
   "name": "react-redux-firebase__demo",
-  "homepage" : "http://innocent1312.github.io/react-redux-firebase__demo",
+  "homepage": "http://innocent1312.github.io/react-redux-firebase__demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

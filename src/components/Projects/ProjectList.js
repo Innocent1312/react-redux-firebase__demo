@@ -3,7 +3,7 @@ import ProjectSummary from './ProjectSummary';
 
 const ProjectList = () => {
   return (
-    <>
+    <div className="project-list">
       <ProjectSummary
         title="Project Title"
         name="Anthony"
@@ -19,7 +19,7 @@ const ProjectList = () => {
         name="Anthony"
         date="11th September, 16:00"
       />
-    </>
+    </div>
   )
 };
 
