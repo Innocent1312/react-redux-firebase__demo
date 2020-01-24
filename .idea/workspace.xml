@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17b14c40-a5aa-46d5-a236-9616a1d8c84b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/App/bg.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Auth/SignIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/SignIn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Auth/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/SignUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dashboard/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Layout/SignedInLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/SignedInLinks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/SignedOutLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/SignedOutLinks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/CreateProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/CreateProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/ProjectList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/ProjectList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/ProjectSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/ProjectSummary.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -120,34 +124,37 @@
       <option name="presentableId" value="Default" />
       <updated>1579802567125</updated>
       <workItem from="1579802569920" duration="5084000" />
-      <workItem from="1579808269747" duration="4306000" />
+      <workItem from="1579808269747" duration="7091000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579802849584">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1579802849584" />
-    <state width="1259" height="193" key="GridCell.Tab.0.bottom" timestamp="1579884391016">
+    <state width="1259" height="193" key="GridCell.Tab.0.bottom" timestamp="1579886248297">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579884391016" />
-    <state width="1259" height="193" key="GridCell.Tab.0.center" timestamp="1579884391014">
+    <state width="1259" height="193" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579886248297" />
+    <state width="1259" height="193" key="GridCell.Tab.0.center" timestamp="1579886248296">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579884391014" />
-    <state width="1259" height="193" key="GridCell.Tab.0.left" timestamp="1579884391011">
+    <state width="1259" height="193" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579886248296" />
+    <state width="1259" height="193" key="GridCell.Tab.0.left" timestamp="1579886248295">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579884391011" />
-    <state width="1259" height="193" key="GridCell.Tab.0.right" timestamp="1579884391015">
+    <state width="1259" height="193" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579886248295" />
+    <state width="1259" height="193" key="GridCell.Tab.0.right" timestamp="1579886248296">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579884391015" />
+    <state width="1259" height="193" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579886248296" />
     <state x="141" y="23" key="SettingsEditor" timestamp="1579809349095">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
