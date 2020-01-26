@@ -31,7 +31,7 @@ const CreateProject = ({ createProject }) => {
         </div>
         <div className="input-field">
           <label htmlFor="content">Project Content</label>
-          <textarea id="content" className="materialize-textarea" onChange={handleContentChange}>{' '}</textarea>
+          <textarea id="content" className="materialize-textarea" onChange={handleContentChange}></textarea>
         </div>
         <div className="input-field">
           <button type="submit" className="btn indigo darken-1 z-depth-0">Create</button>

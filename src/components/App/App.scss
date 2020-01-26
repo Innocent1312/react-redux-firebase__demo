@@ -33,12 +33,5 @@ textarea.materialize-textarea:focus:not([readonly]) {
 
 .project-summary {
   margin-bottom: 10px;
-}
-
-.ico {
-  padding-top: 4px;
-
-  @media screen and (max-width: 602px){
-    padding-top: 0;
-  }
+  border-radius: 5%;
 }
