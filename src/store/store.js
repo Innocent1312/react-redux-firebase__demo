@@ -18,6 +18,7 @@ export const rrfProps = {
   config: fbConfig,
   dispatch: store.dispatch,
   createFirestoreInstance,
+  attachAuthIsReady: true,
 };
 
 export default store;
