@@ -7,7 +7,7 @@ const SignedInLinks = ({ signOut }) => {
   return (
     <ul className="right">
       <li><NavLink to="/create">Create</NavLink></li>
-      <li><a onClick={ signOut }>Log Out</a></li>
+      <li><NavLink to="/" className="log_out" onClick={ signOut }>Log Out</NavLink></li>
       <li>
         <NavLink
           to="/"
