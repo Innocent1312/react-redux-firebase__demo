@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-redux-firebase__demo/static/css/main.227e5fbb.chunk.css",
-    "main.js": "/react-redux-firebase__demo/static/js/main.9d06a2eb.chunk.js",
-    "main.js.map": "/react-redux-firebase__demo/static/js/main.9d06a2eb.chunk.js.map",
+    "main.css": "/react-redux-firebase__demo/static/css/main.c4a6ed18.chunk.css",
+    "main.js": "/react-redux-firebase__demo/static/js/main.03ac4aed.chunk.js",
+    "main.js.map": "/react-redux-firebase__demo/static/js/main.03ac4aed.chunk.js.map",
     "runtime-main.js": "/react-redux-firebase__demo/static/js/runtime-main.487e6323.js",
     "runtime-main.js.map": "/react-redux-firebase__demo/static/js/runtime-main.487e6323.js.map",
-    "static/js/2.e8f6b77a.chunk.js": "/react-redux-firebase__demo/static/js/2.e8f6b77a.chunk.js",
-    "static/js/2.e8f6b77a.chunk.js.map": "/react-redux-firebase__demo/static/js/2.e8f6b77a.chunk.js.map",
+    "static/js/2.82469c06.chunk.js": "/react-redux-firebase__demo/static/js/2.82469c06.chunk.js",
+    "static/js/2.82469c06.chunk.js.map": "/react-redux-firebase__demo/static/js/2.82469c06.chunk.js.map",
     "index.html": "/react-redux-firebase__demo/index.html",
-    "precache-manifest.a43e7dced66167c1a94e9de19f45ca26.js": "/react-redux-firebase__demo/precache-manifest.a43e7dced66167c1a94e9de19f45ca26.js",
+    "precache-manifest.1573c0058e984e75469b730071c02d8c.js": "/react-redux-firebase__demo/precache-manifest.1573c0058e984e75469b730071c02d8c.js",
     "service-worker.js": "/react-redux-firebase__demo/service-worker.js",
-    "static/css/main.227e5fbb.chunk.css.map": "/react-redux-firebase__demo/static/css/main.227e5fbb.chunk.css.map",
-    "static/js/2.e8f6b77a.chunk.js.LICENSE": "/react-redux-firebase__demo/static/js/2.e8f6b77a.chunk.js.LICENSE",
+    "static/css/main.c4a6ed18.chunk.css.map": "/react-redux-firebase__demo/static/css/main.c4a6ed18.chunk.css.map",
+    "static/js/2.82469c06.chunk.js.LICENSE": "/react-redux-firebase__demo/static/js/2.82469c06.chunk.js.LICENSE",
     "static/media/App.scss": "/react-redux-firebase__demo/static/media/bg.128344e2.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.487e6323.js",
-    "static/js/2.e8f6b77a.chunk.js",
-    "static/css/main.227e5fbb.chunk.css",
-    "static/js/main.9d06a2eb.chunk.js"
+    "static/js/2.82469c06.chunk.js",
+    "static/css/main.c4a6ed18.chunk.css",
+    "static/js/main.03ac4aed.chunk.js"
   ]
 }
